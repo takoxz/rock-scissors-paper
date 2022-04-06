@@ -1,4 +1,7 @@
-# Getting Started with Rock-Scissors-Paper App
+### Rock-Scissors-Paper
+Created a mini project to work on Tailwind CSS, React & Redux 
+
+### Getting Started with Rock-Scissors-Paper App
 
 1. Clone this repository. <br>
 ```
