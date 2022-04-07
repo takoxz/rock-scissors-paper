@@ -8,7 +8,7 @@ function Header() {
   return (
     <div>
       <div className="p-6 bg-space-cadet">
-          <div className="text-2xl text-center text-white">Rock Scissor Paper</div>
+          <div className="text-2xl text-center text-white">Rock Scissors Paper</div>
       </div>
       <div className='ScoreBanner bg-cool-green p-5 font-semibold'>
         <div className='BannerTextContainer text-3xl text-center  text-space-cadet p-3 bg-white rounded-md max-w-xs mx-auto flex items-center flex-col'>
